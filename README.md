@@ -1,7 +1,7 @@
 # 📊 Netflix Power BI Dashboard
 Designed an interactive Power BI dashboard to analyse Netflix shows from 2008 to 2021, covering genres, ratings, countries, and yearly trends. Used bar charts, maps, and time series visuals to uncover content insights and global distribution.
 
-🔍 Key Features:
+# 🔍 Key Features:
 Total Shows Overview – Breakdown of 8800+ titles across movies and TV shows.
 
 Year-wise Growth – Timeline showing Netflix's rapid expansion post-2015.

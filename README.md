@@ -42,5 +42,6 @@ Audience Insight: Reveals what age ratings and formats (TV/Movie) are most commo
 Growth Tracking: Assists in tracking Netflix’s content expansion over the years.
 
 # 📁  The dashboard view
-![Netflix Power BI Dashboard](https://github.com/user-attachments/assets/ad5b0bfb-25dd-4730-a7f9-169efc480453)
+![Netflix Power BI Dashboard](https://github.com/user-attachments/assets/1722c806-4bd2-42d6-91dc-b80ff1241dea)
+
 

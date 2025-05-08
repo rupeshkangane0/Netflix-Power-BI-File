@@ -14,14 +14,14 @@ Country Distribution – The USA leads in content contribution, shown on a world
 
 Interactive Visuals – Includes bar charts, pie charts, maps, and line graphs.
 
-🔗 Data Source
+# 🔗 Data Source
 Dataset used: Netflix Shows Dataset - Kaggle
 The dataset includes details such as show titles, types (TV Show or Movie), directors, cast, countries, dates added, release years, ratings, durations, and genres.
 
-💼 Business Problem
+# 💼 Business Problem
 Netflix constantly updates its content library. Business stakeholders need clear insights on content trends, regional availability, genre popularity, and viewer targeting to make strategic decisions.
 
-🎯 Goal of the Dashboard
+# 🎯 Goal of the Dashboard
 To provide an interactive and visual overview of Netflix’s content library from 2008 to 2021, highlighting:
 
 Genre distribution
@@ -32,7 +32,7 @@ Rating classification
 
 Content trends over time
 
-📈 Business Impact
+# 📈 Business Impact
 Content Strategy: Helps content teams identify genre gaps and audience targeting opportunities.
 
 Regional Focus: Supports localisation and licensing strategy based on country-level data.
@@ -41,5 +41,5 @@ Audience Insight: Reveals what age ratings and formats (TV/Movie) are most commo
 
 Growth Tracking: Assists in tracking Netflix’s content expansion over the years.
 
-📁  The dashboard view
+# 📁  The dashboard view
 https://github.com/rupeshkangane0/Netflix-Power-BI-File/blob/main/Netflix%20Power%20BI%20Dashboard.jpg
